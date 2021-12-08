@@ -32,7 +32,7 @@ git commit -m "Apply .gitignore"
 # You can uncomment this line if you want to ignore "AssetStore tools plugin"
 # /[Aa]ssets/AssetStoreTools*
 
-#Jetbrains Rider plugin
+# Jetbrains Rider plugin
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio hidden cache
@@ -78,7 +78,7 @@ crashlytics-build.properties
 # Packed
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
-#Android Assets
+# Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
