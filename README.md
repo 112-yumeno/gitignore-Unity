@@ -1,6 +1,6 @@
 ## .gitignore for Unity
 
-delete cache commands
+cache delete and apply commands
 
 ```
 git rm -r --cached .
