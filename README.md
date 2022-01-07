@@ -29,8 +29,8 @@ git commit -m "Apply .gitignore"
 # Asset .meta files
 !/[Aa]ssets/**/*.meta
 
-# You can uncomment this line if you want to ignore "AssetStore tools plugin"
-# /[Aa]ssets/AssetStoreTools*
+# You can comment out this line if you want to ignore "AssetStore tools plugin"
+/[Aa]ssets/AssetStoreTools*
 
 # Jetbrains Rider plugin
 /[Aa]ssets/Plugins/Editor/JetBrains*
